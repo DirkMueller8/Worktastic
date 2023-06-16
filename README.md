@@ -1,4 +1,4 @@
-## Quadratic equation solver
+## ASP.NET Core MVC Example from Udemy
 ***********************************************************************
 Software:		C# 7.3 / .NET Core 3.1
 
@@ -10,7 +10,7 @@ Author:			Dirk Mueller (based on Jannick Leismann's Udemy course)
 ***********************************************************************
 ???
 
-![](https://github.com/DirkMueller8/QuadEqWithInputVal/blob/master/QuadEq.png)
+<![](https://github.com/DirkMueller8/QuadEqWithInputVal/blob/master/QuadEq.png)>
  
 *Fig 1: ???*
 
