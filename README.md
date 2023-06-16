@@ -10,7 +10,7 @@ Author:			Dirk Mueller (based on Jannick Leismann's Udemy course)
 ***********************************************************************
 ???
 
-<![](https://github.com/DirkMueller8/QuadEqWithInputVal/blob/master/QuadEq.png)>
+![](https://github.com/DirkMueller8/QuadEqWithInputVal/blob/master/x.png)
  
 *Fig 1: ???*
 
