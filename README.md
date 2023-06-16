@@ -6,7 +6,7 @@ Version:    	0.1
 
 Date: 			June 16, 2023
 
-Author:			Dirk Mueller (based on Jannick Liesmann's Udemy course)
+Author:			Dirk Mueller (based on Jannick Leismann's Udemy course)
 ***********************************************************************
 ???
 
