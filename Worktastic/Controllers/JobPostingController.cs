@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Http;
+using Microsoft.AspNetCore.Mvc;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -17,7 +18,7 @@ namespace Worktastic.Controllers
         {
             return View();
         }
-        public IActionResult CreateEditJob(JobPosting jobPosting)
+        public IActionResult CreateEditJob(JobPosting jobPosting, IFormFile file)
         {
             // TODO: write jobposting to db
             return RedirectToAction("Index");
